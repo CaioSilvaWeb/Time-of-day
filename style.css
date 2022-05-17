@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(112, 112, 241);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+#msg{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#foto{
+    text-align: center;
+}
+#foto img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#ola{
+    text-align: center;
+}
